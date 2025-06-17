@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I'm Jordan Yeh, Here you'll find some of my projec
 - [Movie Database](https://github.com/YehJordan/movie_Database) - A JavaScript app where the user can query movies using keywords to find movie information with the help of the IMDbOT API
 - [TerraQuest](https://github.com/benjaminsunliu/TerraQuest) - A web app developped for PolyHacks 2024. Aims to promote environmental sustainability
 - [Pet Adoption](https://github.com/YehJordan/Web-Project) - JavaScript Website to adopt pets or put pets up for adoption
+- [Tower Defense](https://github.com/YehJordan/TowerDefense-in-CPP) - A tower defense game developped in C++, making use of some software patterns.
 
 ## 📫 Get in Touch
 
